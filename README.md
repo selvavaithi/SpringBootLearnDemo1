@@ -124,8 +124,7 @@ This repository is licensed under the **MIT License**. See the [LICENSE](LICENSE
 
 For questions or collaboration opportunities, feel free to reach out:
 
-- **Author**: Selva Vaithi
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **Author**: SelvaKumar V
 - **GitHub Profile**: [selvavaithi](https://github.com/selvavaithi)
 
 ---
