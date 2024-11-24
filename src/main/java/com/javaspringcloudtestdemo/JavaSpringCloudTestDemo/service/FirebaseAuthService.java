@@ -1,2 +1,4 @@
-package com.javaspringcloudtestdemo.JavaSpringCloudTestDemo.service;public class FirebaseAuthService {
+package com.javaspringcloudtestdemo.JavaSpringCloudTestDemo.service;
+
+public class FirebaseAuthService {
 }

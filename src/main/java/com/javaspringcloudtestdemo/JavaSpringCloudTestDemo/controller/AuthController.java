@@ -1,2 +1,4 @@
-package com.javaspringcloudtestdemo.JavaSpringCloudTestDemo.controller;public class AuthController {
+package com.javaspringcloudtestdemo.JavaSpringCloudTestDemo.controller;
+
+public class AuthController {
 }
