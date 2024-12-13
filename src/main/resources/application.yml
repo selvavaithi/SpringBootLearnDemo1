@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: JavaSpringCloudTestDemo
+server:
+  port: 8080
